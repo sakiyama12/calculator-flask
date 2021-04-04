@@ -1,0 +1,6 @@
+[user]
+ name = sakiyama12
+ email = x0ov@hotmail.co.jp
+
+ [core]
+  excludesfile = ./ .gitignore_global
